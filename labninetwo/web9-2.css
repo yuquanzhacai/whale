@@ -1,0 +1,298 @@
+*{
+	margin: auto;
+	border:0px;
+	text-align:center;
+	font-size:12px;
+	color:#522a06;
+	line-height: 20px;
+}
+body{
+	background-image:url(images/bodybg.gif);
+}
+/*a{
+	text-decoration:none;
+}*/
+.header{
+	height:205px;
+	background-image:url(images/bg.gif);
+}
+.banner{
+	width:1000px;
+	height:164px;
+}
+.banner_logo{
+	margin-top:38px;
+	margin-left:35px;
+	float:left;
+}
+.nav{
+	height:40px;
+	background-image:url(images/nav.jpg);
+}
+.nav_body{
+	width:1000px;
+	margin:auto;
+}
+.nav_content{
+	width: 1000px;
+	font-weight: bold;
+	color: white;
+	font-size: 15px;
+	margin-left: 10px;
+}
+.nav_content a{
+	line-height:40px;
+	text-decoration: none;
+	float: left;
+}
+.nav_content a.hover{
+	color:#f9f603;
+	text-decoration:none;
+}
+.nav_search input{
+	/*width: 60px;*/
+
+	/*height: 20px;*/
+	float: left;
+	margin-right: 0px;
+
+}
+.nav_search{
+	background-position: 900px 5px;
+}
+input[type="button"]{
+	width: 50px;
+	height: 20px;
+	margin-right:100px;
+	margin-top: 0px;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.content{
+	width:1000px;
+	height:600px;
+	margin:auto;
+	clear:both;
+}
+.content_top{
+	width:1000px;
+	height:200px;
+	overflow:hidden;
+	margin-top:20px;
+}
+.news_pic{
+	width:324px;
+	height:200px;
+	float:left;
+	background-image:url(images/news_bg.png);
+	background-size:320px*180px;
+}
+.news_pic_top_pic{
+	width:300px;
+	height:180px;
+}
+.news_pic_top{
+	width:300px;
+	height:180px;
+	margin:auto;
+}
+.news_pic_bottom{
+	width:300px;
+	height:20px;
+	margin:auto;
+}
+.news_list{
+	width:345px;
+	height:200px;
+	margin-left:18px;
+	float:left;
+}
+.news_list_top{
+	width:345px;
+	height:40px;
+	margin:auto;
+}
+.news_list_top_pic{
+	width:300px;
+	height:40px;
+	float:left;
+}
+.news_list_top_pic2{
+	width:30px;
+	height:40px;
+	float:left;
+}
+.news_list_bottom{
+	width:345px;
+	height:160px;
+	margin:auto;
+}
+li a{
+	padding-left: 0px;
+}
+li span{
+	float: right;
+}
+li a{
+	padding-left: 0px;
+}
+.news_announce{
+	width:277px;
+	height:200px;
+	float:right;
+}
+.news_announce_top{
+	width:113px;
+	height:23px;
+	background-image:url(images/board.png);
+	margin:auto;
+}
+.news_announce_bottom{
+	width:277px;
+	height:177px;
+	background-image:url(images/board_bg2.png);
+	background-size:277px*177px;
+}
+.content_bottom_left{
+	width:715px;
+	height:400px;
+	float:left;
+}
+.academic{
+	width:340px;
+	height:200px;
+	float:left;
+}
+.academic_pic{
+	width:340px;
+	height:60px;
+}
+.academic_pic2{
+	width:340px;
+	height:60px;
+}
+.book_news{
+	width:340px;
+	margin-left:25px;
+	height:200px;
+	float:left;
+}
+.fengcai{
+	width:700px;
+	height:280px;
+	clear:both;
+}
+.fengcai1{
+	width:700px;
+	height:50px;
+	
+}
+.fengcai3{
+	width:700px;
+	height:200px;
+	
+	background-image:url(images/fengcai_bg2.png);
+}
+.fengcai_pic1{
+	width:650px;
+	height:50px;
+	float:left;
+}
+.pic1{
+	height:170px;
+	width:155px;
+	float:left;
+	margin-left:25px;
+	margin-right:8px;
+	margin-top:12px;
+}
+.pic2{
+	height:170px;
+	width:155px;
+	float:left;
+	margin:12px 8px 10px 0px;
+}
+.pic3{
+	height:170px;
+	width:155px;
+	float:left;
+	margin:12px 8px 10px 0px;
+}
+.pic4{
+	height:170px;
+	width:155px;
+	float:left;
+	margin:12px 25px 10px 0px;
+}
+.content_bottom_right{
+	width:280px;
+	height:420px;
+	float:right;
+	margin-top:20px;
+}
+.content_bottom_right_top{
+	width:280px;
+	height:50px;
+}
+.mmm{
+	width:140px;
+	height:40px;
+}
+.content_bottom_right_bottom{
+	width:280px;
+	height:370px;
+	background-image:url(images/show_bg.png);
+	margin:auto;
+}
+.top{
+	width:220px;
+	height:210px;
+	margin:auto;
+}
+.mingjia{
+	width:216px;
+	height:190px;
+	margin:18px 2px 2px 2px;
+}
+.bottom{
+	width:220px;
+	height:90px;
+	margin:10px 30px 2px 30px;
+}
+.tupian{
+	width:220px;
+	height:20px;
+	margin:0px 35px 0px 25px;
+}
+.gengduo{
+	float:right;
+}
+.footer{
+	width:1000px;
+	height:105px;
+	clear:none;
+	text-align:center;
+	margin:168px;
+	margin-top:50px;
+	background-image:url(images/foot.gif);
+	background-size: 1000px 105px;
+}
+.zzz{
+	margin:auto;
+	align: center;
+	vertical-align: center; 
+
+}
+
+.footer ul{
+	list-style:none;
+	margin-left:300px;
+
+}
+.footer ul li{
+	float:left;
+	margin-right:10px;
+}
+.footer a{
+	text-decoration: none;
+}
